@@ -1,0 +1,5 @@
+#! /bin/bash
+#the build file for the compiler
+#team chickendinner
+
+./Micro $1 > $2
